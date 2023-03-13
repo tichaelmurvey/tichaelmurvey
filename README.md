@@ -8,8 +8,8 @@ I am a front-end developer, creative coder and accessibility professional. I com
 To get a sense of what I'm about, check out:
 
 * [Colour contrast recommender (React)](https://contrastwizard.com)
-* [Fantasy name generator (Node.JS, EJS)](https://nameoracle.org)
-* [Renter's rights web application](https://rentincreasecalculator.org)
+* [Fantasy name generator (Node.JS, MongoDB, JS)](https://nameoracle.org)
+* [Renter's rights web application (JS)](https://rentincreasecalculator.org)
 
 ## 🔧 Tools and languages
 
