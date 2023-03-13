@@ -7,9 +7,9 @@ I am a front-end developer, creative coder and accessibility professional. I com
 
 To get a sense of what I'm about, check out:
 
-* [Colour contrast recommender (React)](contrastwizard.com)
-* [Fantasy name generator (Node.JS, EJS)](nameoracle.org)
-* [Renter's rights web application](rentincreasecalculator.org)
+* [Colour contrast recommender (React)](https://contrastwizard.com)
+* [Fantasy name generator (Node.JS, EJS)](https://nameoracle.org)
+* [Renter's rights web application](https://rentincreasecalculator.org)
 
 ## 🔧Tools and languages
 
