@@ -11,7 +11,7 @@ To get a sense of what I'm about, check out:
 * [Fantasy name generator (Node.JS, EJS)](https://www.nameoracle.org)
 * [Renter's rights web application](https://rentincreasecalculator.org)
 
-## 🔧Tools and languages
+## 🔧 Tools and languages
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
