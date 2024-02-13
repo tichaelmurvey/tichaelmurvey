@@ -1,7 +1,7 @@
 # Hello, I'm Michael 🌊
 
 ## 📖 About me
-I am a front-end developer, creative coder and accessibility professional. I come from the glorious paradise of Tasmania 🍃 and right now I'm based in Montreal 🍁.
+I am a front-end developer, creative coder and accessibility professional. I come from Tasmania 🍃 and I'm based in Montreal 🍁.
 
 ## 🖼️ My projects
 
