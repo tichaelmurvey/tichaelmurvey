@@ -6,7 +6,7 @@ I am a front-end developer, creative coder and accessibility professional. I com
 ## 🖼️ My projects
 
 * [Colour contrast recommender (React)](https://contrastwizard.com)
-* [Infinite Sunset] (https://sunset.funwebsite.fun)
+* [Infinite Sunset](https://sunset.funwebsite.fun)
 * [Renter's rights web application (JS)](https://rentincreasecalculator.org)
 
 ## 🔧 Tools and languages
