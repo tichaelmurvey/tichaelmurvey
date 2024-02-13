@@ -5,10 +5,8 @@ I am a front-end developer, creative coder and accessibility professional. I com
 
 ## 🖼️ My projects
 
-To get a sense of what I'm about, check out:
-
 * [Colour contrast recommender (React)](https://contrastwizard.com)
-* [Fantasy name generator (Node.JS, MongoDB, JS)](https://nameoracle.org)
+* [Infinite Sunset] (https://sunset.funwebsite.fun)
 * [Renter's rights web application (JS)](https://rentincreasecalculator.org)
 
 ## 🔧 Tools and languages
