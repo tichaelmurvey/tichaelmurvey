@@ -1,7 +1,9 @@
 # Hello, I'm Michael 🌊
 
 ## 📖 About me
-I am a game designer, web developer, and accessibility specialist. I'm interested in making stuff that is weird, interesting, and fun.
+I am a game designer, web developer, and accessibility specialist. 
+
+I'm interested in making stuff that is weird, interesting, and fun.
 
 I'm currently open to freelance work or collaborating on projects!
 
