@@ -1,31 +1,27 @@
 # Hello, I'm Michael 🌊
 
 ## 📖 About me
-I am a front-end developer, creative coder and accessibility professional. I come from Tasmania 🍃 and I'm based in Montreal 🍁.
+I am a game designer, web developer, and accessibility specialist. I'm interested in making stuff that is weird, interesting, and fun.
 
-## 🖼️ My projects
+I'm currently open to freelance work or collaborating on projects!
 
-* [Colour contrast recommender (React)](https://contrastwizard.com)
-* [Infinite Sunset](https://sunset.funwebsite.fun)
-* [Renter's rights web application (JS)](https://rentincreasecalculator.org)
+## 🖼️ Find me elsewhere
+
+* [Funwebsite.fun (web game collection)](https://funwebsite.fun/)
+* [Email me](mailto:michael@funwebsite.fun)
+* Talk to me on Discord: michaelfrommountains
+<!--
 
 ## 🔧 Tools and languages
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
 
 <br/>
 
-<!--
 **tichaelmurvey/tichaelmurvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
